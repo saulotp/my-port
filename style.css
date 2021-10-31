@@ -1,0 +1,24 @@
+body {
+  background-color: #191a19;
+}
+
+.navi-bar {
+  width: 100%;
+  margin: 0;
+}
+
+.nav-name {
+  background-color: #1e5128;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 400px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: horizontal;
+  display: inline-block;
+}
