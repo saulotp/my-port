@@ -5,6 +5,8 @@ body {
 .navi-bar {
   width: 100%;
   margin: 0;
+  position: sticky;
+  margin: 20px auto;
 }
 
 .nav-name {
@@ -15,10 +17,9 @@ body {
   gap: 400px;
 }
 
-ul {
+.nav-name ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: horizontal;
-  display: inline-block;
+  list-style-type: none;
 }
